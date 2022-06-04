@@ -1,0 +1,60 @@
+{
+  "new_arrival": [
+    {
+      "id": 1,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/MayDayOut_LeafGreen_phPieroFasanotto_1024x1024.jpg?v=1653493902&auto=format&w=430&",
+      "Name": "MaYDay Outdoor Light",
+      "title": "Flos",
+      "price": "215"
+    },
+    {
+      "id": 2,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/HP_6750_greykenzo_v2_6750_1024x1024.jpg?v=1653403102&auto=format&w=430&",
+      "Name": "Piloti Table Stone",
+      "title": "Fredericia",
+      "price": "1595"
+    },
+    {
+      "id": 3,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/FK63_oak_oil_V1-large_1024x1024.jpg?v=1653326544&auto=format&w=430&",
+      "Name": "FK63 Wall Mounted Bookcase",
+      "title": "Carl Hansen & son",
+      "price": "742"
+    },
+    {
+      "id": 4,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BM1106_walnut_oil_saddleleather_cognac_side-large_1024x1024.jpg?v=1653314282&auto=format&w=430&",
+      "Name": "BM1106 HuntsMan chair",
+      "title": "Carl Hansen & son",
+      "price": "1374"
+    },
+    {
+      "id": 5,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BeamcoffeetablebyMatthewHiltonforSCP-Squareblackframewithashbeams_6_1024x1024.jpg?v=1653310445&auto=format&w=430&",
+      "Name": "Beam Coffee Table",
+      "title": "SCP",
+      "price": "980"
+    },
+    {
+      "id": 6,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Relate-side-table-h60-smoked-oak-black-Muuto-5000x5000-hi-res_1024x1024.jpg?v=1652962292&auto=format&w=430&",
+      "Name": "Relate Side table",
+      "title": "Muuto",
+      "price": "365"
+    },
+    {
+      "id": 7,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Luminator_red_on_phPieroFasanotto_1024x1024.jpg?v=1652880311&auto=format&w=430&",
+      "Name": "Luminator",
+      "title": "Flos",
+      "price": "47"
+    },
+    {
+      "id": 8,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/IsletsDiningTableAngled_1024x1024.jpg?v=1652798567&auto=format&w=430&",
+      "Name": "lslets Table",
+      "title": "Fredericia",
+      "price": "7483"
+    }
+  ]
+}

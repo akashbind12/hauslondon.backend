@@ -1,0 +1,60 @@
+{
+    "farniture": [
+        {
+          "id": 9,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-carl-hansen-and-son-fk10-plico4_1024x1024.jpg?v=1628034582&auto=format&w=430&",
+          "Name": "FK10 pilico Chair High Back",
+          "title": "Carl Hansan & son",
+          "price": "2227"
+        },
+        {
+          "id": 10,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-l-ercolani-cut-out-imagery22_1024x1024.jpg?v=1631738386&auto=format&w=430&",
+          "Name": "REpair Chair - Hide Seat",
+          "title": "Ercol",
+          "price": "2215"
+        },
+        {
+          "id": 11,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/KarakorumDedar_001_Pearl_b0be0ffb-489b-4762-9650-059fc3c4a440_1024x1024.jpg?v=1647280327&auto=format&w=430&",
+          "Name": "Pacha Lounge Chair",
+          "title": "Gubi",
+          "price": "1999"
+        },
+        {
+          "id": 12,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BM_2229_v2_naturalsaddleleather_lacqueredoak_1024x1024.jpg?v=1652373209&auto=format&w=430&",
+          "Name": "Hunting Chair",
+          "title": "Fredericia",
+          "price": "5038"
+        },
+        {
+          "id": 13,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-lercolani-resized_1024x1024.jpg?v=1633961622&auto=format&w=430&",
+          "Name": "Butterfly Chair",
+          "title": "Ercol",
+          "price": "650"
+        },
+        {
+          "id": 14,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/carl_hansen_ch88_smoked_oak_back_1024x1024.jpeg?v=1643110126&auto=format&w=430&",
+          "Name": "CH88T Dinning Chair",
+          "title": "Carl Hansen & Son",
+          "price": "397"
+        },
+        {
+          "id": 15,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-hay-revolt-hero_1024x1024.jpg?v=1633091446&auto=format&w=430&",
+          "Name": "Revolt Chair",
+          "title": "Hay",
+          "price": "325"
+        },
+        {
+          "id": 16,
+          "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-fritz-hansen-series-77_1024x1024.jpg?v=1626324903&auto=format&w=430&",
+          "Name": "Series 7 Chair Chrome base",
+          "title": "Fritz Hansen",
+          "price": "403"
+        }
+      ]
+}
