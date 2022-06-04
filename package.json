@@ -1,5 +1,5 @@
 {
-  "name": "Task-Tracker",
+  "name": "hauslondonbackend",
   "version": "1.0.0",
   "description": "task tracker",
   "main": "server.js",
@@ -7,7 +7,7 @@
   "scripts":{
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
+  "author": "bind",
   "dependencies": {
     "json-server": "^0.17.0"
   }
